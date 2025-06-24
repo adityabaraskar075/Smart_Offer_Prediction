@@ -67,6 +67,8 @@ This ML tool helps users make smarter checkout decisions by:
 git clone https://github.com/yourusername/smart-offer-predictor.git
 cd smart-offer-predictor
 
+pip install -r requirements.txt
+
 python generate.py
 
 python example.py
